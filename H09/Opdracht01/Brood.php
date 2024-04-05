@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 class Brood {
 
@@ -48,3 +47,4 @@ class Brood {
         $this->gewicht = $gewicht;
     }
 }
+?>
